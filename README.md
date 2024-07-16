@@ -1,4 +1,4 @@
-<img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/ratio.png?raw=true" alt="Ratio App" width="200"/>
+<img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/ratio-clipped.png?raw=true" alt="Ratio App" width="200"/>
 
 # Ratio App
 
