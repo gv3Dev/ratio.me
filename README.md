@@ -17,7 +17,7 @@ Ratio is an app where users can receive anonymous ratings on their social media 
 ## Tech Stack
 
 - **Frontend:** React Native (Mobile)
-- **Backend:** Node.js with Express + Socket.io
+- **Backend:** Node.js with Express + Socket.io OR python flask
 - **Database:** Firebase Firestore / MongoDB
 - **Storage Bucket:** BackBlaze (image storage)
 - **Authentication:** Firebase Auth
