@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/ratio-clipped.png?raw=true" alt="Ratio App" width="200"/>
+  <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/Screenshot_2025-02-20_at_11.16.25_AM-removebg-preview.png" alt="Ratio App" width="200"/>
 </div>
 
 # Ratio – The Social Game That Ranks Your Personality
