@@ -2,23 +2,29 @@
   <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/ratio-clipped.png?raw=true" alt="Ratio App" width="200"/>
 </div>
 
-# Ratio App
+# 🔥 Ratio – The Social Game That Ranks Your Personality
 
-Ratio is an app where users can receive anonymous ratings on their social media accounts. Users share a unique link on their profiles, allowing friends and followers to rate them anonymously. The app calculates scores based on these ratings and ranks users on a leaderboard.
+You get **matched with people, chat for 3 minutes, and receive a Ratio Score** based on how fun, engaging, or dry you were.
 
-## Features
+📈 **The better your convos, the higher your score—and the more people want to talk to you.**
 
-- Anonymous Ratings: Users share their unique Ratio link on social media, and friends and followers can rate them anonymously on various attributes (e.g., creativity, friendliness, humor).
-- Scoring System: Calculate scores based on the received ratings, with different attributes having different weights.
-- Leaderboards: Display global and friends-only leaderboards, showing top-rated users in different categories.
-- Notifications: Notify users when they receive new ratings and highlight changes in leaderboard positions.
-- Moderation Tools: Allow users to report inappropriate ratings or comments, with a review system for flagged content.
+But it’s more than just chatting—it’s **leveling up your social skills, boosting confidence, and proving you can actually hold a conversation.**
 
-## Tech Stack
+---
 
-- **Frontend:** React Native (Mobile)
-- **Backend:** Node.js with Express + Socket.io OR python flask
-- **Database:** Firebase Firestore / MongoDB
-- **Storage Bucket:** BackBlaze (image storage)
-- **Authentication:** Firebase Auth
+## 🔹 Meet People Who Actually Match Your Energy
+🎭 **Vibe, Debate, or Dive into Any Topic** → Find someone who gets you, challenge an opposite, or search for a deep convo.  
+🌍 **Talk to People Across the Globe & Locally, 24/7** → No matter the time, there’s always someone.  
+🏆 **Compete for the Top Spot** → Leaderboards track the best conversationalists—where do you stand?  
+⏳ **It Never Feels Repetitive** → Each match is fresh, every chat keeps it moving.  
 
+---
+
+## 🔹 Your Ratio Score Says Everything
+🔥 **It’s how you’re remembered. How people see you.** A high score opens doors. A low one? That’s on you.  
+📍 **Local & Global Matching** → Instantly connect with people nearby or across the world.  
+🚀 **Level Up Your Social Skills** → Get better at conversations, boost confidence, and leave an impression.  
+
+💀 **You’re either the main character or an NPC. Ratio decides.**
+
+🔥 **Chat. Score. Improve.** 🚀
