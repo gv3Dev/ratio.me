@@ -2,7 +2,7 @@
   <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/ratio-clipped.png?raw=true" alt="Ratio App" width="200"/>
 </div>
 
-# 🔥 Ratio – The Social Game That Ranks Your Personality
+# Ratio – The Social Game That Ranks Your Personality
 
 You get **matched with people, chat for 3 minutes, and receive a Ratio Score** based on how fun, engaging, or dry you were.
 
