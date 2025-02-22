@@ -2,7 +2,7 @@
   <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/output-onlinepngtools%20(4).png?raw=true" alt="Ratio App" width="200"/>
 </div>
 
-# Ratio – The Social Game That Ranks Your Personality  
+# Ratio – The Game of Social Status  
 
 You get **thrown into fast-paced group chats**, talk for **3 minutes**, and receive a **Ratio Score** based on how fun, engaging, or dry you were.  
 
@@ -14,9 +14,9 @@ But it’s more than just chatting—it’s **leveling up your social skills, bo
 
 ## 🔹 Meet People Who Actually Match Your Energy  
 - 🎭 **Vibe, Debate, or Dive into Any Topic** → Every chat is fresh, every group dynamic is different.  
-- 🌍 **Talk to People Across the Globe & Locally, 24/7** → No matter the time, there’s always a conversation happening.  
-- 💬 **Blurt Drops Unexpected Moments Into the Chat** → You never know when Ratio will reveal something funny, wild, or weird about someone in the group.  
-- 🏆 **Compete for the Top Spot** → At the end of every round, the group decides who stood out the most.  
+- 🌍 **Talk to People Across the Globe & Locally, 24/7** →  There’s always a conversation happening.
+- 💬 **Blurt Drops Unexpected Moments Into the Chat** →  Ratio might expose you at any second.  
+- 🏆 **Compete for the Top Spot** →  At the end of every round, the group picks the standout.  
 - ⏳ **It Never Feels Repetitive** → Each match is new, every chat keeps it moving.  
 
 ---
@@ -28,4 +28,4 @@ But it’s more than just chatting—it’s **leveling up your social skills, bo
 
 💀 **You’re either the main character or an NPC. Ratio decides.**  
 
-🔥 **Chat. Score. Improve.** 🚀  
+🔥 **Chat. Take Off. Stand Out.** 🚀  
