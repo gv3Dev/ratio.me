@@ -2,9 +2,9 @@
   <img src="https://github.com/gv3Dev/ratio.me/blob/main/assets/output-onlinepngtools%20(4).png?raw=true" alt="Ratio App" width="200"/>
 </div>
 
-# Ratio – The Game of Social Status  
+# Ratio – The Game of Social Status 🏆
 
-You get **thrown into fast-paced group chats**, talk for **3 minutes**, and receive a **Ratio Score** based on how fun, engaging, or dry you were.  
+You get **thrown into fast-paced group chats**, talk for **3 minutes**, and receive a **Ratio Score** based on how fun, engaging, or dry you were. 😵‍💫
 
 📈 **The better your convos, the higher your score—and the more people want to talk to you.**  
 
